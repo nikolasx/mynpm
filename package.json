@@ -1,0 +1,25 @@
+{
+  "name": "mynpm",
+  "version": "1.0.0",
+  "description": "常用组件方法包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolasx/mynpm.git"
+  },
+  "keywords": [
+    "javascript",
+    "vue",
+    "util",
+    "lixiong"
+  ],
+  "author": "lixiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolasx/mynpm/issues"
+  },
+  "homepage": "https://github.com/nikolasx/mynpm#readme"
+}
